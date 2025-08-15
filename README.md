@@ -1,12 +1,12 @@
-# New Project Template
+# Open Building Stack Working Group
 
-This repository contains a template that can be used to seed a repository for a new C4SB Foundation project.
+The goal of this working group is to create and promote software which will facilitate connections to legacy building machines, equipment and systems that speak legacy protocols such as Modbus, BACnet, and LON and enable the data and control points on those machines and systems to be ingested and delivered to local and cloud based systems and computers.
 
-The template uses the [Community Specification License](https://github.com/CommunitySpecification/Community_Specification).
+## Governance
 
-## How to use this template
+**Chairperson**: Tristan de Frondeville 
+**Governing Board/Committee**: Rick Justis, Tristan de Frondeville
 
-1. Clone it from GitHub.
-2. Create a new local repository and copy the files into it.
-3. Modify README.md and other files to represent your project, not this template project.
-4. Develop your new project.
+## Contributing
+
+Please refer to [Contributing.md](docs/Contributing.md) and [Code_of_Conduct.md](docs/Code_of_Conduct.md) for full guidelines.
