@@ -4,7 +4,7 @@ The goal of this working group is to create and promote software which will faci
 
 ## Governance
 
-**Chairperson**: Tristan de Frondeville 
+**Chairperson**: Tristan de Frondeville  
 **Governing Board/Committee**: Rick Justis, Tristan de Frondeville
 
 ## Contributing
